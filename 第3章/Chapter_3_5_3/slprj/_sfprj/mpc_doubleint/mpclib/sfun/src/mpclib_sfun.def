@@ -1,0 +1,3 @@
+LIBRARY mpclib_sfun.lib
+EXPORTS
+mexFunction
